@@ -1,0 +1,82 @@
+body {
+  background: linear-gradient(#ffffff, #fff9b5);
+  overflow-x: hidden;
+}
+
+#logo {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about-and-reward {
+  display: flex;
+  width: 98vw;
+  margin-right: 20px;
+}
+
+#trophy-image {
+  float: left;
+  min-width: 30vw;
+}
+
+#recognition-moment-image {
+  max-width: calc(98vw - 30vw);
+}
+
+.equipments-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.equipments-section p {
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#equipments-image {
+  max-width: 80%;
+}
+
+hr {
+  border: 1px solid #a02e2d;
+}
+
+.segmentation-section {
+  text-align: center;
+}
+
+.segmentation-section span {
+  color: #ee232a;
+}
+
+.footer {
+  padding-top: 5px;
+  background-color: #ec3237;
+  width: auto;
+  margin-bottom: 8px;
+  display: flex;
+  height: 6rem;
+  justify-content: space-around;
+}
+
+.icons {
+  height: 35%;
+}
+
+.footer figcaption {
+  color: white;
+}
+
+@media screen and (max-width: 751px) {
+  .footer {
+    justify-content: space-evenly;
+  }
+
+  .footer figcaption {
+    display: none;
+  }
+}
