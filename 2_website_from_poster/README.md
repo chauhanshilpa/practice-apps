@@ -1,12 +1,12 @@
-# Practice Apps
+# Practice App
 
-- [Practice Apps](#practice-apps)
+- [Practice App](#practice-app)
   - [Installation](#installation)
   - [Poster to convert](#poster-to-convert)
   - [Website overview that I made from this Poster](#website-overview-that-i-made-from-this-poster)
   - [Credits](#credits)
 
-This project is made as an assignment for internship.
+This project was made as an assignment for internship.
 
 ## Installation
 
